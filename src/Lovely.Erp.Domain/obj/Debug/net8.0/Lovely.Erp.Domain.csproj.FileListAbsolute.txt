@@ -1,0 +1,12 @@
+C:\Users\shash\source\repos\lovelyerp\src\Lovely.Erp.Domain\bin\Debug\net8.0\Lovely.Erp.Domain.deps.json
+C:\Users\shash\source\repos\lovelyerp\src\Lovely.Erp.Domain\bin\Debug\net8.0\Lovely.Erp.Domain.dll
+C:\Users\shash\source\repos\lovelyerp\src\Lovely.Erp.Domain\bin\Debug\net8.0\Lovely.Erp.Domain.pdb
+C:\Users\shash\source\repos\lovelyerp\src\Lovely.Erp.Domain\obj\Debug\net8.0\Lovely.Erp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shash\source\repos\lovelyerp\src\Lovely.Erp.Domain\obj\Debug\net8.0\Lovely.Erp.Domain.AssemblyInfoInputs.cache
+C:\Users\shash\source\repos\lovelyerp\src\Lovely.Erp.Domain\obj\Debug\net8.0\Lovely.Erp.Domain.AssemblyInfo.cs
+C:\Users\shash\source\repos\lovelyerp\src\Lovely.Erp.Domain\obj\Debug\net8.0\Lovely.Erp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\shash\source\repos\lovelyerp\src\Lovely.Erp.Domain\obj\Debug\net8.0\Lovely.Erp.Domain.sourcelink.json
+C:\Users\shash\source\repos\lovelyerp\src\Lovely.Erp.Domain\obj\Debug\net8.0\Lovely.Erp.Domain.dll
+C:\Users\shash\source\repos\lovelyerp\src\Lovely.Erp.Domain\obj\Debug\net8.0\refint\Lovely.Erp.Domain.dll
+C:\Users\shash\source\repos\lovelyerp\src\Lovely.Erp.Domain\obj\Debug\net8.0\Lovely.Erp.Domain.pdb
+C:\Users\shash\source\repos\lovelyerp\src\Lovely.Erp.Domain\obj\Debug\net8.0\ref\Lovely.Erp.Domain.dll

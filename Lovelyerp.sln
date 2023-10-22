@@ -3,11 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lovely.Erp", "Lovely.Erp\Lovely.Erp.csproj", "{C4BD9B29-BA81-434A-AFE0-23410637DD45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lovely.Erp.Web", "src\Lovely.Erp.Web\Lovely.Erp.Web.csproj", "{B790933C-1045-418C-BC1D-2A06C8A68CF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lovely.Erp.Web", "src\Lovely.Erp.Web\Lovely.Erp.Web.csproj", "{B790933C-1045-418C-BC1D-2A06C8A68CF5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lovely.Erp.Web.UnitTests", "test\Lovely.Erp.Web.UnitTests\Lovely.Erp.Web.UnitTests.csproj", "{9ACE477C-9062-407C-B5D4-084482C15C93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lovely.Erp.Web.Tests", "test\Lovely.Erp.Web.Tests\Lovely.Erp.Web.Tests.csproj", "{F5700FCA-19C5-4AE6-A59A-EA1F3D5AAE96}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lovely.Erp.App", "src\Lovely.Erp.App\Lovely.Erp.App.csproj", "{6EB98037-845E-4FFE-8888-34B3B1B59C36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lovely.Erp.Domain", "src\Lovely.Erp.Domain\Lovely.Erp.Domain.csproj", "{9FEAD036-285E-4722-B013-232AD54E4681}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lovely.Erp.Repositories", "src\Lovely.Erp.Repositories\Lovely.Erp.Repositories.csproj", "{06CB1B05-DC79-4C33-A717-99322D9B060A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lovely.Erp.Services", "src\Lovely.Erp.Services\Lovely.Erp.Services.csproj", "{17C0CE40-4EAD-4F13-97F8-39F4742B85BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lovely.Erp.Data.SQLite", "src\Lovely.Erp.Data.SQLite\Lovely.Erp.Data.SQLite.csproj", "{1AE9F016-AB12-491D-9EAD-42AADF4851FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lovely.Erp.Web.IntegrationTests", "test\Lovely.Erp.Web.IntegrationTests\Lovely.Erp.Web.IntegrationTests.csproj", "{1D337DC9-6318-4129-BA49-A9F192486108}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,20 +25,40 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C4BD9B29-BA81-434A-AFE0-23410637DD45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C4BD9B29-BA81-434A-AFE0-23410637DD45}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C4BD9B29-BA81-434A-AFE0-23410637DD45}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{C4BD9B29-BA81-434A-AFE0-23410637DD45}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C4BD9B29-BA81-434A-AFE0-23410637DD45}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C4BD9B29-BA81-434A-AFE0-23410637DD45}.Release|Any CPU.Deploy.0 = Release|Any CPU
 		{B790933C-1045-418C-BC1D-2A06C8A68CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B790933C-1045-418C-BC1D-2A06C8A68CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B790933C-1045-418C-BC1D-2A06C8A68CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B790933C-1045-418C-BC1D-2A06C8A68CF5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F5700FCA-19C5-4AE6-A59A-EA1F3D5AAE96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F5700FCA-19C5-4AE6-A59A-EA1F3D5AAE96}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F5700FCA-19C5-4AE6-A59A-EA1F3D5AAE96}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F5700FCA-19C5-4AE6-A59A-EA1F3D5AAE96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ACE477C-9062-407C-B5D4-084482C15C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ACE477C-9062-407C-B5D4-084482C15C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ACE477C-9062-407C-B5D4-084482C15C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ACE477C-9062-407C-B5D4-084482C15C93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EB98037-845E-4FFE-8888-34B3B1B59C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB98037-845E-4FFE-8888-34B3B1B59C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB98037-845E-4FFE-8888-34B3B1B59C36}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6EB98037-845E-4FFE-8888-34B3B1B59C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB98037-845E-4FFE-8888-34B3B1B59C36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EB98037-845E-4FFE-8888-34B3B1B59C36}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9FEAD036-285E-4722-B013-232AD54E4681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FEAD036-285E-4722-B013-232AD54E4681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FEAD036-285E-4722-B013-232AD54E4681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FEAD036-285E-4722-B013-232AD54E4681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06CB1B05-DC79-4C33-A717-99322D9B060A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CB1B05-DC79-4C33-A717-99322D9B060A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CB1B05-DC79-4C33-A717-99322D9B060A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CB1B05-DC79-4C33-A717-99322D9B060A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17C0CE40-4EAD-4F13-97F8-39F4742B85BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C0CE40-4EAD-4F13-97F8-39F4742B85BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C0CE40-4EAD-4F13-97F8-39F4742B85BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C0CE40-4EAD-4F13-97F8-39F4742B85BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE9F016-AB12-491D-9EAD-42AADF4851FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE9F016-AB12-491D-9EAD-42AADF4851FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE9F016-AB12-491D-9EAD-42AADF4851FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE9F016-AB12-491D-9EAD-42AADF4851FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D337DC9-6318-4129-BA49-A9F192486108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D337DC9-6318-4129-BA49-A9F192486108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D337DC9-6318-4129-BA49-A9F192486108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D337DC9-6318-4129-BA49-A9F192486108}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
