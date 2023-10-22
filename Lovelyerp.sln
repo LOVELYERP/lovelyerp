@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lovely.Erp", "Lovely.Erp\Lovely.Erp.csproj", "{C4BD9B29-BA81-434A-AFE0-23410637DD45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lovely.Erp", "Lovely.Erp\Lovely.Erp.csproj", "{C4BD9B29-BA81-434A-AFE0-23410637DD45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lovely.Erp.Web", "src\Lovely.Erp.Web\Lovely.Erp.Web.csproj", "{B790933C-1045-418C-BC1D-2A06C8A68CF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lovely.Erp.Web.Tests", "test\Lovely.Erp.Web.Tests\Lovely.Erp.Web.Tests.csproj", "{F5700FCA-19C5-4AE6-A59A-EA1F3D5AAE96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +21,14 @@ Global
 		{C4BD9B29-BA81-434A-AFE0-23410637DD45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4BD9B29-BA81-434A-AFE0-23410637DD45}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C4BD9B29-BA81-434A-AFE0-23410637DD45}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B790933C-1045-418C-BC1D-2A06C8A68CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B790933C-1045-418C-BC1D-2A06C8A68CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B790933C-1045-418C-BC1D-2A06C8A68CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B790933C-1045-418C-BC1D-2A06C8A68CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5700FCA-19C5-4AE6-A59A-EA1F3D5AAE96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5700FCA-19C5-4AE6-A59A-EA1F3D5AAE96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5700FCA-19C5-4AE6-A59A-EA1F3D5AAE96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5700FCA-19C5-4AE6-A59A-EA1F3D5AAE96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
