@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shash\\source\\repos\\lovelyerp\\test\\Lovely.Erp.Web.UnitTests\\Lovely.Erp.Web.UnitTests.csproj": {}
+    "C:\\Users\\shashibhushan.kumar\\Source\\Repos\\lovelyerp\\test\\Lovely.Erp.Web.UnitTests\\Lovely.Erp.Web.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shash\\source\\repos\\lovelyerp\\test\\Lovely.Erp.Web.UnitTests\\Lovely.Erp.Web.UnitTests.csproj": {
+    "C:\\Users\\shashibhushan.kumar\\Source\\Repos\\lovelyerp\\test\\Lovely.Erp.Web.UnitTests\\Lovely.Erp.Web.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shash\\source\\repos\\lovelyerp\\test\\Lovely.Erp.Web.UnitTests\\Lovely.Erp.Web.UnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\shashibhushan.kumar\\Source\\Repos\\lovelyerp\\test\\Lovely.Erp.Web.UnitTests\\Lovely.Erp.Web.UnitTests.csproj",
         "projectName": "Lovely.Erp.Web.UnitTests",
-        "projectPath": "C:\\Users\\shash\\source\\repos\\lovelyerp\\test\\Lovely.Erp.Web.UnitTests\\Lovely.Erp.Web.UnitTests.csproj",
-        "packagesPath": "C:\\Users\\shash\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shash\\source\\repos\\lovelyerp\\test\\Lovely.Erp.Web.UnitTests\\obj\\",
+        "projectPath": "C:\\Users\\shashibhushan.kumar\\Source\\Repos\\lovelyerp\\test\\Lovely.Erp.Web.UnitTests\\Lovely.Erp.Web.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\shashibhushan.kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shashibhushan.kumar\\Source\\Repos\\lovelyerp\\test\\Lovely.Erp.Web.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\shash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shashibhushan.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -41,7 +41,9 @@
           ]
         },
         "restoreAuditProperties": {
-          "enableAudit": "default"
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -85,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23463.5/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

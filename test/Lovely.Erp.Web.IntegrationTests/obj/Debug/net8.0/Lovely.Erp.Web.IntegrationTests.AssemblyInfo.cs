@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lovely.Erp.Web.IntegrationTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7153e55ac3f304f2d4e54d33432f9867e8e1a42c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f664e4dedaba416a4972deefa354d6800156e7da")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lovely.Erp.Web.IntegrationTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lovely.Erp.Web.IntegrationTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
