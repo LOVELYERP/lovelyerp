@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lovely.Erp.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f664e4dedaba416a4972deefa354d6800156e7da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0dd109eb7a24bb4ed8fa08959827c0c6a3ee7ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lovely.Erp.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lovely.Erp.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

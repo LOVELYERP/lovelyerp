@@ -1,1 +1,0 @@
-C:\Users\shash\source\repos\lovelyerp\src\Lovely.Erp.App\Lovely.Erp.App.csproj;x64
