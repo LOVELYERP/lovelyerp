@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uDwl3ywSyT9omYFLTRHyk8pIg9gRc/tU2VDDKjWUdSuRA2I5Q1if6ircTaquG5nnEVj3/6TqXA+16qHUHtkruQ==",
+  "dgSpecHash": "GnF2FPDV9uLKXlrw8diI+ThJWCMlI4BbXk7Ci25RebW0vInrwVrTqPTycLpnsp6egngUhPRYhGghQR3Mmodjrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shashibhushan.kumar\\source\\repos\\lovelyerp\\src\\Lovely.Erp.Data.SQLite\\Lovely.Erp.Data.SQLite.csproj",
+  "projectFilePath": "C:\\Users\\shashibhushan.kumar\\source\\lovelyerp\\src\\Lovely.Erp.Data.SQLite\\Lovely.Erp.Data.SQLite.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

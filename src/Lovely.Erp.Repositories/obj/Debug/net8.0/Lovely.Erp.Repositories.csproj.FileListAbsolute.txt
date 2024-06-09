@@ -22,3 +22,14 @@ C:\Users\shashibhushan.kumar\Source\Repos\lovelyerp\src\Lovely.Erp.Repositories\
 C:\Users\shashibhushan.kumar\Source\Repos\lovelyerp\src\Lovely.Erp.Repositories\obj\Debug\net8.0\refint\Lovely.Erp.Repositories.dll
 C:\Users\shashibhushan.kumar\Source\Repos\lovelyerp\src\Lovely.Erp.Repositories\obj\Debug\net8.0\Lovely.Erp.Repositories.pdb
 C:\Users\shashibhushan.kumar\Source\Repos\lovelyerp\src\Lovely.Erp.Repositories\obj\Debug\net8.0\ref\Lovely.Erp.Repositories.dll
+C:\Users\shashibhushan.kumar\source\lovelyerp\src\Lovely.Erp.Repositories\bin\Debug\net8.0\Lovely.Erp.Repositories.deps.json
+C:\Users\shashibhushan.kumar\source\lovelyerp\src\Lovely.Erp.Repositories\bin\Debug\net8.0\Lovely.Erp.Repositories.dll
+C:\Users\shashibhushan.kumar\source\lovelyerp\src\Lovely.Erp.Repositories\bin\Debug\net8.0\Lovely.Erp.Repositories.pdb
+C:\Users\shashibhushan.kumar\source\lovelyerp\src\Lovely.Erp.Repositories\obj\Debug\net8.0\Lovely.Erp.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shashibhushan.kumar\source\lovelyerp\src\Lovely.Erp.Repositories\obj\Debug\net8.0\Lovely.Erp.Repositories.AssemblyInfoInputs.cache
+C:\Users\shashibhushan.kumar\source\lovelyerp\src\Lovely.Erp.Repositories\obj\Debug\net8.0\Lovely.Erp.Repositories.AssemblyInfo.cs
+C:\Users\shashibhushan.kumar\source\lovelyerp\src\Lovely.Erp.Repositories\obj\Debug\net8.0\Lovely.Erp.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\shashibhushan.kumar\source\lovelyerp\src\Lovely.Erp.Repositories\obj\Debug\net8.0\Lovely.Erp.Repositories.dll
+C:\Users\shashibhushan.kumar\source\lovelyerp\src\Lovely.Erp.Repositories\obj\Debug\net8.0\refint\Lovely.Erp.Repositories.dll
+C:\Users\shashibhushan.kumar\source\lovelyerp\src\Lovely.Erp.Repositories\obj\Debug\net8.0\Lovely.Erp.Repositories.pdb
+C:\Users\shashibhushan.kumar\source\lovelyerp\src\Lovely.Erp.Repositories\obj\Debug\net8.0\ref\Lovely.Erp.Repositories.dll

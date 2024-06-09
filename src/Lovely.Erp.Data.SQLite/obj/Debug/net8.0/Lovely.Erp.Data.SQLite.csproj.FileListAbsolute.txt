@@ -22,3 +22,14 @@ C:\Users\shashibhushan.kumar\Source\Repos\lovelyerp\src\Lovely.Erp.Data.SQLite\o
 C:\Users\shashibhushan.kumar\Source\Repos\lovelyerp\src\Lovely.Erp.Data.SQLite\obj\Debug\net8.0\refint\Lovely.Erp.Data.SQLite.dll
 C:\Users\shashibhushan.kumar\Source\Repos\lovelyerp\src\Lovely.Erp.Data.SQLite\obj\Debug\net8.0\Lovely.Erp.Data.SQLite.pdb
 C:\Users\shashibhushan.kumar\Source\Repos\lovelyerp\src\Lovely.Erp.Data.SQLite\obj\Debug\net8.0\ref\Lovely.Erp.Data.SQLite.dll
+C:\Users\shashibhushan.kumar\source\lovelyerp\src\Lovely.Erp.Data.SQLite\bin\Debug\net8.0\Lovely.Erp.Data.SQLite.deps.json
+C:\Users\shashibhushan.kumar\source\lovelyerp\src\Lovely.Erp.Data.SQLite\bin\Debug\net8.0\Lovely.Erp.Data.SQLite.dll
+C:\Users\shashibhushan.kumar\source\lovelyerp\src\Lovely.Erp.Data.SQLite\bin\Debug\net8.0\Lovely.Erp.Data.SQLite.pdb
+C:\Users\shashibhushan.kumar\source\lovelyerp\src\Lovely.Erp.Data.SQLite\obj\Debug\net8.0\Lovely.Erp.Data.SQLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shashibhushan.kumar\source\lovelyerp\src\Lovely.Erp.Data.SQLite\obj\Debug\net8.0\Lovely.Erp.Data.SQLite.AssemblyInfoInputs.cache
+C:\Users\shashibhushan.kumar\source\lovelyerp\src\Lovely.Erp.Data.SQLite\obj\Debug\net8.0\Lovely.Erp.Data.SQLite.AssemblyInfo.cs
+C:\Users\shashibhushan.kumar\source\lovelyerp\src\Lovely.Erp.Data.SQLite\obj\Debug\net8.0\Lovely.Erp.Data.SQLite.csproj.CoreCompileInputs.cache
+C:\Users\shashibhushan.kumar\source\lovelyerp\src\Lovely.Erp.Data.SQLite\obj\Debug\net8.0\Lovely.Erp.Data.SQLite.dll
+C:\Users\shashibhushan.kumar\source\lovelyerp\src\Lovely.Erp.Data.SQLite\obj\Debug\net8.0\refint\Lovely.Erp.Data.SQLite.dll
+C:\Users\shashibhushan.kumar\source\lovelyerp\src\Lovely.Erp.Data.SQLite\obj\Debug\net8.0\Lovely.Erp.Data.SQLite.pdb
+C:\Users\shashibhushan.kumar\source\lovelyerp\src\Lovely.Erp.Data.SQLite\obj\Debug\net8.0\ref\Lovely.Erp.Data.SQLite.dll

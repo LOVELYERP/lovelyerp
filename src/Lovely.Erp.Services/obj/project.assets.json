@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shashibhushan.kumar\\Source\\Repos\\lovelyerp\\src\\Lovely.Erp.Services\\Lovely.Erp.Services.csproj",
+      "projectUniqueName": "C:\\Users\\shashibhushan.kumar\\source\\lovelyerp\\src\\Lovely.Erp.Services\\Lovely.Erp.Services.csproj",
       "projectName": "Lovely.Erp.Services",
-      "projectPath": "C:\\Users\\shashibhushan.kumar\\Source\\Repos\\lovelyerp\\src\\Lovely.Erp.Services\\Lovely.Erp.Services.csproj",
+      "projectPath": "C:\\Users\\shashibhushan.kumar\\source\\lovelyerp\\src\\Lovely.Erp.Services\\Lovely.Erp.Services.csproj",
       "packagesPath": "C:\\Users\\shashibhushan.kumar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shashibhushan.kumar\\Source\\Repos\\lovelyerp\\src\\Lovely.Erp.Services\\obj\\",
+      "outputPath": "C:\\Users\\shashibhushan.kumar\\source\\lovelyerp\\src\\Lovely.Erp.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
